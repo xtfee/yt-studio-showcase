@@ -1,5 +1,7 @@
 # YT Studio: a self-running YouTube channel
 
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Horyzont%20Zdarze%C5%84-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@26horyzontzdarzen)
+
 **An autonomous production pipeline that researches, writes, fact-checks, narrates, edits, scores and publishes 16-minute documentary videos about space, three times a week, with zero human input.**
 
 It runs **Horyzont Zdarzeń** ("Event Horizon"), a Polish-language popular-science channel about black holes, stars, planets and space missions. Every few minutes the service checks the YouTube upload queue. If the next slot is empty, it produces a new episode from scratch and schedules it.
@@ -10,7 +12,7 @@ It runs **Horyzont Zdarzeń** ("Event Horizon"), a Polish-language popular-scien
 
 > 🛠 **Status:** live in production, publishing Wed / Fri / Sun at 15:00 CET.
 >
-> ▶️ **Episodes:** [Why does Voyager 1 still work?](https://www.youtube.com/watch?v=wQX1rihQJgM) · [TON 618: the monster that shouldn't exist](https://www.youtube.com/watch?v=HJtr287s7DQ) (in Polish)
+> ▶️ **Channel:** [youtube.com/@26horyzontzdarzen](https://www.youtube.com/@26horyzontzdarzen) (in Polish), every episode produced end-to-end by this pipeline
 >
 > 🔒 **Closed-source.** The code is private. This repository is a technical case study.
 >
